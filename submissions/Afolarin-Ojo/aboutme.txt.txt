@@ -1,4 +1,0 @@
-Hello world 
-My name is Afolarin Ojo
-
-i have been able to push my first task to Git hub
